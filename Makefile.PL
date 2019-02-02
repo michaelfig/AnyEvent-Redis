@@ -1,4 +1,4 @@
-use Module::Install;
+use inc::Module::Install;
 name 'AnyEvent-Redis';
 all_from 'lib/AnyEvent/Redis.pm';
 readme_from 'lib/AnyEvent/Redis.pm';
